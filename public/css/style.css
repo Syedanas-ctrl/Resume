@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins';
+    margin: 0;
+    padding:0;
+}
+.intro{
+    align-items: center;
+    margin: 3rem;
+    text-decoration: none;
+}
+.two{
+    align-items: center;
+}
+.career-objective, .projects, .why-me{
+    margin: 3rem;
+}
+.education, .courses, .skills{
+    margin: 3rem;
+    margin-right: -10rem;
+}
+.note{
+    margin-top: 5px;
+    margin-left: 3rem;
+}
+.heading{
+    color: #4166F5;
+}
+.line{
+    border: none;
+    height: 1px;
+    color: black;
+    background-color: black;
+}
